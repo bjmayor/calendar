@@ -76,7 +76,7 @@
     view.backgroundColor = [UIColor clearColor];
     [self.tableView setTableFooterView:view];
     
-    self.tableView contentInset
+//    self.tableView contentInset
 }
 
 -(void)viewAppear:(BOOL)animated{

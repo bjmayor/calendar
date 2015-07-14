@@ -158,7 +158,7 @@
         ((RepeatTableViewController *)segue.destinationViewController).passValueDelegate = self;
     }
     NSString *str = @"dasdas";
-    str boundingRectWithSize:<#(CGSize)#> options:<#(NSStringDrawingOptions)#> attributes:<#(NSDictionary *)#> context:<#(NSStringDrawingContext *)#>
+//    str boundingRectWithSize:<#(CGSize)#> options:<#(NSStringDrawingOptions)#> attributes:<#(NSDictionary *)#> context:<#(NSStringDrawingContext *)#>
 }
 
 /***
