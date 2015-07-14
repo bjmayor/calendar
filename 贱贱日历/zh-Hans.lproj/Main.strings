@@ -1,0 +1,153 @@
+
+/* Class = "IBUILabel"; text = "周二"; ObjectID = "1yA-uT-rhL"; */
+"1yA-uT-rhL.text" = "周二";
+
+/* Class = "IBUILabel"; text = "未来4件事件"; ObjectID = "28i-3x-KYR"; */
+"28i-3x-KYR.text" = "未来4件事件";
+
+/* Class = "IBUILabel"; text = "周四"; ObjectID = "2G6-1B-gWg"; */
+"2G6-1B-gWg.text" = "周四";
+
+/* Class = "IBUILabel"; text = "周五"; ObjectID = "2d6-mc-JYU"; */
+"2d6-mc-JYU.text" = "周五";
+
+/* Class = "IBUILabel"; text = "每月"; ObjectID = "3A5-QE-ozG"; */
+"3A5-QE-ozG.text" = "每月";
+
+/* Class = "IBUILabel"; text = "星期开始于"; ObjectID = "8C9-cl-5wZ"; */
+"8C9-cl-5wZ.text" = "星期开始于";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "9vO-sI-MXo"; */
+"9vO-sI-MXo.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "重复"; ObjectID = "AwT-z3-u0h"; */
+"AwT-z3-u0h.text" = "重复";
+
+/* Class = "IBUILabel"; text = "面试"; ObjectID = "C2J-6D-c6I"; */
+"C2J-6D-c6I.text" = "面试";
+
+/* Class = "IBUILabel"; text = "聚会"; ObjectID = "G1b-U2-R13"; */
+"G1b-U2-R13.text" = "聚会";
+
+/* Class = "IBUILabel"; text = "添加"; ObjectID = "G3W-uE-eZ4"; */
+"G3W-uE-eZ4.text" = "添加";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "GCj-yN-KuQ"; */
+"GCj-yN-KuQ.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "结束"; ObjectID = "Gpy-J6-dIJ"; */
+"Gpy-J6-dIJ.text" = "结束";
+
+/* Class = "IBUITableViewSection"; headerTitle = "日历"; ObjectID = "JAx-hR-cHr"; */
+"JAx-hR-cHr.headerTitle" = "日历";
+
+/* Class = "IBUILabel"; text = "约会"; ObjectID = "LRk-Vv-Nrb"; */
+"LRk-Vv-Nrb.text" = "约会";
+
+/* Class = "IBUILabel"; text = "去评分"; ObjectID = "Mda-Sr-At3"; */
+"Mda-Sr-At3.text" = "去评分";
+
+/* Class = "IBUILabel"; text = "类型"; ObjectID = "Mwb-lL-Wcc"; */
+"Mwb-lL-Wcc.text" = "类型";
+
+/* Class = "IBUILabel"; text = "周一"; ObjectID = "N6r-Bb-InG"; */
+"N6r-Bb-InG.text" = "周一";
+
+/* Class = "IBUILabel"; text = "每年"; ObjectID = "Nvv-OB-sLt"; */
+"Nvv-OB-sLt.text" = "每年";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "PfJ-0A-7Is"; */
+"PfJ-0A-7Is.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "周一"; ObjectID = "Qby-L0-I3o"; */
+"Qby-L0-I3o.text" = "周一";
+
+/* Class = "IBUILabel"; text = "永不"; ObjectID = "THM-aO-DCD"; */
+"THM-aO-DCD.text" = "永不";
+
+/* Class = "IBUILabel"; text = "意见反馈"; ObjectID = "TyR-D5-cTX"; */
+"TyR-D5-cTX.text" = "意见反馈";
+
+/* Class = "IBUILabel"; text = "周日"; ObjectID = "UVi-7V-DXd"; */
+"UVi-7V-DXd.text" = "周日";
+
+/* Class = "IBUILabel"; text = "日历"; ObjectID = "W41-K7-n2f"; */
+"W41-K7-n2f.text" = "日历";
+
+/* Class = "IBUILabel"; text = "周六"; ObjectID = "WXa-cQ-MPM"; */
+"WXa-cQ-MPM.text" = "周六";
+
+/* Class = "IBUILabel"; text = "其他"; ObjectID = "YHg-2t-6LT"; */
+"YHg-2t-6LT.text" = "其他";
+
+/* Class = "IBUILabel"; text = "如何显示到通知中心"; ObjectID = "ZBC-dx-Vuc"; */
+"ZBC-dx-Vuc.text" = "如何显示到通知中心";
+
+/* Class = "IBUILabel"; text = "永不"; ObjectID = "ZKM-GG-ccP"; */
+"ZKM-GG-ccP.text" = "永不";
+
+/* Class = "IBUILabel"; text = "就医"; ObjectID = "bsa-ik-FXf"; */
+"bsa-ik-FXf.text" = "就医";
+
+/* Class = "IBUILabel"; text = "生日"; ObjectID = "cHX-Uq-FYj"; */
+"cHX-Uq-FYj.text" = "生日";
+
+/* Class = "IBUILabel"; text = "选择需要的插件点击绿色添加按钮后完成"; ObjectID = "cHs-SR-l0j"; */
+"cHs-SR-l0j.text" = "选择需要的插件点击绿色添加按钮后完成";
+
+/* Class = "IBUILabel"; text = "开始"; ObjectID = "cpT-rb-Qf8"; */
+"cpT-rb-Qf8.text" = "开始";
+
+/* Class = "IBUITableViewSection"; headerTitle = "事件"; ObjectID = "cw5-Wy-eRj"; */
+"cw5-Wy-eRj.headerTitle" = "事件";
+
+/* Class = "IBUILabel"; text = "其他"; ObjectID = "dgK-6b-EjA"; */
+"dgK-6b-EjA.text" = "其他";
+
+/* Class = "IBUILabel"; text = "每周"; ObjectID = "gmq-Oo-kFN"; */
+"gmq-Oo-kFN.text" = "每周";
+
+/* Class = "IBUILabel"; text = "点击通知中心底部的“编辑”按钮"; ObjectID = "iaP-JF-cQp"; */
+"iaP-JF-cQp.text" = "点击通知中心底部的“编辑”按钮";
+
+/* Class = "IBUILabel"; text = "节日显示"; ObjectID = "kbW-Bt-LTL"; */
+"kbW-Bt-LTL.text" = "节日显示";
+
+/* Class = "IBUILabel"; text = "事件列表"; ObjectID = "kpV-u7-1ga"; */
+"kpV-u7-1ga.text" = "事件列表";
+
+/* Class = "IBUILabel"; text = "周三"; ObjectID = "p1K-xr-UQJ"; */
+"p1K-xr-UQJ.text" = "周三";
+
+/* Class = "IBUITextField"; placeholder = "标题"; ObjectID = "qWX-RS-Ply"; */
+"qWX-RS-Ply.placeholder" = "标题";
+
+/* Class = "IBUILabel"; text = "V1.0.0"; ObjectID = "rPR-z7-IWD"; */
+"rPR-z7-IWD.text" = "V1.0.0";
+
+/* Class = "IBUILabel"; text = "未来3件事件"; ObjectID = "sDN-Ov-ROE"; */
+"sDN-Ov-ROE.text" = "未来3件事件";
+
+/* Class = "IBUILabel"; text = "默认事件类型"; ObjectID = "tpd-eG-EwB"; */
+"tpd-eG-EwB.text" = "默认事件类型";
+
+/* Class = "IBUILabel"; text = "周日"; ObjectID = "uFh-dJ-nwN"; */
+"uFh-dJ-nwN.text" = "周日";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "vDr-lW-bup"; */
+"vDr-lW-bup.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "未来5件事件"; ObjectID = "w6x-mk-izW"; */
+"w6x-mk-izW.text" = "未来5件事件";
+
+/* Class = "IBUILabel"; text = "其他"; ObjectID = "wzC-BP-tG5"; */
+"wzC-BP-tG5.text" = "其他";
+
+/* Class = "IBUILabel"; text = "版本检测"; ObjectID = "xK4-fS-8nt"; */
+"xK4-fS-8nt.text" = "版本检测";
+
+/* Class = "IBUILabel"; text = "休息日"; ObjectID = "yEc-bL-675"; */
+"yEc-bL-675.text" = "休息日";
+
+/* Class = "IBUILabel"; text = "每天"; ObjectID = "zYp-gV-Ky0"; */
+"zYp-gV-Ky0.text" = "每天";

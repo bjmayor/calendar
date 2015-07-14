@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63E18053-9B9C-4ED1-B8D0-1E2FA51888D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>贱贱日历</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0D2C2693-3D13-4D9D-8C30-7DCFAE1D1DA5</key>
+		<string>svn://svn.h2n.cn/ios/%252525252525E8%252525252525B4%252525252525B1%252525252525E8%252525252525B4%252525252525B1%252525252525E6%25252525252597%252525252525A5%252525252525E5%2525252525258E%25252525252586</string>
+		<key>becfdf4f-948a-4254-896e-4616a4d105aa++5666</key>
+		<string>svn://svn.h2n.cn/ios/%252525252525E8%252525252525B4%252525252525B1%252525252525E8%252525252525B4%252525252525B1%252525252525E6%25252525252597%252525252525A5%252525252525E5%2525252525258E%25252525252586</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>贱贱日历.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0D2C2693-3D13-4D9D-8C30-7DCFAE1D1DA5</key>
+		<string>../../../贱贱日历</string>
+		<key>becfdf4f-948a-4254-896e-4616a4d105aa++5666</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>0D2C2693-3D13-4D9D-8C30-7DCFAE1D1DA5</key>
+		<string>svn://svn.h2n.cn/ios</string>
+		<key>becfdf4f-948a-4254-896e-4616a4d105aa++5666</key>
+		<string>svn://svn.h2n.cn/ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://svn.h2n.cn/ios/%252525252525E8%252525252525B4%252525252525B1%252525252525E8%252525252525B4%252525252525B1%252525252525E6%25252525252597%252525252525A5%252525252525E5%2525252525258E%25252525252586/%E8%B4%B1%E8%B4%B1%E6%97%A5%E5%8E%86.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>becfdf4f-948a-4254-896e-4616a4d105aa++5666</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>becfdf4f-948a-4254-896e-4616a4d105aa++5666</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E8%B4%B1%E8%B4%B1%E6%97%A5%E5%8E%86</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D2C2693-3D13-4D9D-8C30-7DCFAE1D1DA5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>贱贱日历</string>
+		</dict>
+	</array>
+</dict>
+</plist>
